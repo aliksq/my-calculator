@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## GitHub Pages
-https://aliksq.github.io/learning-vue/
+https://aliksq.github.io/my-calculator/
